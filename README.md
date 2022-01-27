@@ -6,11 +6,18 @@ Barely passed this class.
 
 Grades: 
 MP01 - 70
+
 MP02 - 100
+
 MP03 - 40
+
 MP04 - 75
+
 MP05 - 40
+
 MP06 - 40
+
 MP07 - 80
+
 MP08 - 100
 
