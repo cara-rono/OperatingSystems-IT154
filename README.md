@@ -5,20 +5,12 @@ Funny story, I was using Linux during the first exercise didn't realize Windows 
 Barely passed this class.
 
 Grades: 
-
-MP01 - 70
-
-MP02 - 100
-
-MP03 - 40
-
-MP04 - 75
-
-MP05 - 40
-
-MP06 - 40
-
-MP07 - 80
-
-MP08 - 100
+<br />MP01 - 70
+<br />MP02 - 100
+<br />MP03 - 40
+<br />MP04 - 75
+<br />MP05 - 40
+<br />MP06 - 40
+<br />MP07 - 80
+<br />MP08 - 100
 
