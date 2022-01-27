@@ -5,6 +5,7 @@ Funny story, I was using Linux during the first exercise didn't realize Windows 
 Barely passed this class.
 
 Grades: 
+
 MP01 - 70
 
 MP02 - 100
